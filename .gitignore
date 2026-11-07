@@ -1,0 +1,33 @@
+# Maven build artifacts
+target/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# NetBeans & Java Build Artifacts
+build/
+dist/
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
